@@ -9,3 +9,6 @@ DB
       |--- Timestamp   --> TT.MM.YYYY_hh:mm:ss      (Milli)
       |--- Status     --> True/False                (Int)
       |--- Info    --> "xxxxxxxxxxxxxxxxxxxxxxxxxx" (ByteStream)
+
+
+<&&<  |&&|  >!!>
