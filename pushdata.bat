@@ -33,7 +33,7 @@ if %wurf% GTR 10 (
 set SORTDATE=%date:~0,10%#%time:~0,5%#%b%#%wurf%dB
 echo %SORTDATE%
 
-echo %SORTDATE% >> ./w001
+echo %SORTDATE% >> ./W001
 
 git add .
 git commit -m "Add existing file"
