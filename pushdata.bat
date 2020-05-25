@@ -39,7 +39,7 @@ git add .
 git commit -m "Add existing file"
 git push origin master
 
-timeout 30
+timeout 3600
 
 SET /a count+=1
 echo -----%count%------
